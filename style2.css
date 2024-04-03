@@ -1,0 +1,133 @@
+.container-1 {
+    background: rgba(0,88,83,0.05)
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 134px 18px 305px 0;
+    width: 1440px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  
+  .container-17 {
+    border-radius: 15px;
+    background: #f9f9f9;
+    position: absolute;
+    left: 47px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    padding: 19px 0 0 36px;
+    width: 416px;
+    height: 232px;
+    box-sizing: border-box;
+  }
+
+  .container-10 {
+    box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 15px;
+    background: #FFFFFF;
+    position: absolute;
+    right: 502px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 38px;
+    width: 416px;
+    height: 232px;
+    box-sizing: border-box;
+  }
+
+  .container-19 {
+    border-radius: 15px;
+    background: #f9f9f9;
+    position: absolute;
+    right: 44px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 18px;
+    width: 416px;
+    height: 232px;
+    box-sizing: border-box;
+  }
+
+  .ticket-booking {
+    margin: 0 0.2px 12px 0.2px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 24px;
+    color: #000000;
+  }
+
+  .we-book-all-kind-of-national-or-international-ticket-for-your-destinaion {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+  }
+
+  .hotel-booking {
+    margin: 0 1.1px 19px 1.1px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 24px;
+    color: #000000;
+  }
+
+  .you-can-easily-book-your-according-to-your-budget-hotel-by-our-website {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+  }
+
+  .tour-plan {
+    margin: 0 175px 19px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 24px;
+    color: #000000;
+  }
+
+  .we-provide-you-the-best-plan-within-ashort-time-explore-more {
+    align-self: flex-end;
+    overflow-wrap: break-word;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+  }
+
+  .vector-14 {
+    margin: 0 278.8px 20.2px 0;
+    align-self: center;
+    width: 46px;
+    height: 50.8px;
+  }
+
+  .carbonhotel {
+    margin: 0 2px 36px 2px;
+    align-self: flex-start;
+    width: 45px;
+    height: 45px;
+  }
+
+  .vector-13 {
+    width: 35.9px;
+    height: 38.5px;
+  }
